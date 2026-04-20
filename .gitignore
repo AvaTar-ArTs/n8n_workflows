@@ -1,0 +1,15 @@
+# Use when you run `git init` in this folder (optional standalone repo).
+# Until then, this file documents intent only.
+
+.DS_Store
+.env
+.env.*
+
+# Local archives (keep zips outside this tree or below; optional if you add any)
+*.zip
+
+# Python noise if you add scripts here later
+__pycache__/
+*.py[cod]
+.venv/
+venv/

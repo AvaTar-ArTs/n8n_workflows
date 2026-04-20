@@ -1,0 +1,7 @@
+# Cursor indexing — n8n_workflows canonical home (/Users/steven/n8n_workflows)
+# Keeps agent context on docs + manifests; skips noise and secrets.
+
+.DS_Store
+.env
+.env.*
+*.log
